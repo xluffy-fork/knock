@@ -107,6 +107,8 @@ arkansas
 arlington
 as
 as400
+asset
+assets
 asia
 asterix
 at
@@ -1490,6 +1492,7 @@ secured
 securid
 security
 sendmail
+sentry
 seri
 serv
 serv2
@@ -1585,6 +1588,7 @@ stat
 static
 statistics
 stats
+stg
 stlouis
 stock
 storage
